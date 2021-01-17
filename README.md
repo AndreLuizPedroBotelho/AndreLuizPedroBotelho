@@ -21,8 +21,6 @@
 </p>
 
 
-<br/><br/>
-
 ## My Development Stack
 
 **Application and Data**
