@@ -5,8 +5,6 @@
   I'm André Luiz, Fullstack developer from Brazil
 </p>
 
-<br/>
-
 
 ### Where to find me:
 <p>
