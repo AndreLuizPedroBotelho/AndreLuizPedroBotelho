@@ -9,7 +9,7 @@
 ### Where to find me:
 <p>
 
-<a href="https://www.linkedin.com/in/andr%C3%A9-luiz-pedro-botelho/">
+<a href="https://www.linkedin.com/in/andre-luiz-pedro-botelho/">
 <img src="https://img.shields.io/badge/-Andre%20Luiz%20Pedro%20Botelho-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
 </a>
 
